@@ -1,0 +1,10 @@
+MIDlet-Name: messenger
+MIDlet-Version: 0.1
+MIDlet-Vendor: Peter Gerhat
+MIDlet-Description: send/receive messages
+MIDlet-Jar-URL: messenger.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: messenger,,
+RIM-MIDlet-Flags-1: 1

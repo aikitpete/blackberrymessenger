@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+MIDlet-Version: 0.1
+MIDlet-Jar-Size: 205286
+RIM-COD-URL-5: messenger-5.cod
+RIM-COD-URL-4: messenger-4.cod
+RIM-COD-SHA1-5: cb 35 d7 04 85 2a d7 e3 7a 62 ff fb 8f 50 2e 90 73 b6 53 e5
+RIM-COD-URL-3: messenger-3.cod
+RIM-COD-SHA1-4: dd 2f 02 12 76 49 8b 9d 2b 06 6d 4b f0 b2 bc d2 24 84 26 bc
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_mailv2,net_rim_pdap
+RIM-COD-SHA1-3: fe 6e e6 df c0 a5 fd c1 cf f7 1b 80 90 d6 f2 e0 87 89 db 69
+RIM-COD-URL-2: messenger-2.cod
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: messenger.jar
+RIM-COD-Size-5: 46552
+RIM-COD-SHA1-2: 74 7f 23 19 a4 02 50 38 64 fc b3 50 ae 90 28 86 ca af 6c c8
+RIM-COD-URL-1: messenger-1.cod
+RIM-COD-Size-4: 57588
+RIM-COD-SHA1-1: 51 a8 dd 5d e8 34 f7 16 5d 70 6a 83 96 cf 88 e0 68 8d f7 01
+RIM-COD-Size-3: 56172
+RIM-COD-Size-2: 54868
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 28224
+RIM-COD-Module-Name: messenger
+RIM-COD-Size: 62944
+MIDlet-Name: messenger
+RIM-COD-Creation-Time: 1260302520
+MIDlet-1: messenger,,core.Application
+RIM-COD-URL: messenger.cod
+MIDlet-Description: send/receive messages
+RIM-COD-SHA1: 38 21 bb 89 bf 8e dc 16 6c d1 66 44 db 72 2a 54 ad eb 74 90
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Peter Gerhat
